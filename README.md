@@ -1,3 +1,3 @@
 # LGMVIP-TASK-2
 THIS IS MY SECOND TASK OF LGM. IN THIS TASK I MADE A RESPONSIVE CALCULATOR BY USING HTML, CSS AND JAVASCRIPT.
-IF YOU WANT TO SEE MY CALCULATOR <a href="souravrjpt.github.io/lgmvip-task-2/calculator.html">VISIT</a>
+IF YOU WANT TO SEE MY CALCULATOR <a href="https://souravrjpt.github.io/lgmvip-task-2/calculator.html">VISIT</a>
